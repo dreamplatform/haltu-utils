@@ -1,0 +1,22 @@
+syntax: glob
+
+.DS_Store
+parts
+eggs
+bin
+develop-eggs
+downloads
+html
+*.egg-info
+.installed.cfg
+project/database.db
+project/local_settings.py
+project/staticroot
+project/django_cache
+staticroot
+.coverage
+.mr.developer.cfg
+*.pyc
+*.swp
+*.orig
+
